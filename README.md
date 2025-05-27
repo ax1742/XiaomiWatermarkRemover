@@ -56,8 +56,8 @@
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/yourusername/Xiaomi-Watermark-Remover.git
-   cd Xiaomi-Watermark-Remover
+   git clone https://github.com/ax1742/XiaomiWatermarkRemover.git
+   cd XiaomiWatermarkRemover
    ```
 
 2. 创建并激活虚拟环境（可选）：
