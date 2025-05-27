@@ -1,4 +1,4 @@
-# Xiaomi-Watermark-Remover
+# Xiaomi Watermark Remover
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -6,7 +6,7 @@
 
 ## 简介
 
-`Xiaomi-Watermark-Remover` 是一个基于 Python 的命令行工具，用于批量去除小米相机照片的机型水印，并对水印区域进行像素级对齐修复。相比小米官方去除水印的工具，本项目提供更彻底、更精细的修复效果。
+`Xiaomi Watermark Remover` 是一个基于 Python 的命令行工具，用于批量去除小米相机照片的机型水印，并对水印区域进行像素级对齐修复。相比小米官方去除水印的工具，本项目提供更彻底、更精细的修复效果。
 
 * **跨平台支持**：兼容 Windows、macOS、Linux（理论上）。
 * **快速批处理**：支持多线程处理，示例测试：30 张图片仅需 2.1 秒。
